@@ -1,2 +1,4 @@
+# Product Design Database System   
+
 This project is my term project for the IEE 305 Information Systems Engineering class at ASU. I designed and built a database system to manage data for a product design game. The system stores data about teams, vehicle designs, and chassis purchases and sales using a SQLite database and Python with SQLModel ORM. This project demonstrates my skills in database design, data modeling, and writing SQL queries. The repository includes the code for the database models, a script to add sample data, and the database file itself. I worked on this project alone and wrote all the code, created the database, and prepared the project report.
 Files included: models.py, seed_data.py, and term_project.db
